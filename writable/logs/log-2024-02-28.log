@@ -1,0 +1,46 @@
+CRITICAL - 2024-02-28 00:54:34 --> Invalid file: edit_produk.php
+#0 C:\xampp\htdocs\ukk_stefanyyang\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_produk.php')
+#1 C:\xampp\htdocs\ukk_stefanyyang\system\Common.php(1089): CodeIgniter\View\View->render('edit_produk', Array, true)
+#2 C:\xampp\htdocs\ukk_stefanyyang\app\Controllers\Home.php(207): view('edit_produk', Array)
+#3 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(832): App\Controllers\Home->edit_produk('1')
+#4 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_stefanyyang\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_stefanyyang\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 01:26:52 --> Cannot redeclare App\Controllers\Home::produk()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-02-28 01:31:40 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\ukk_stefanyyang\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ukk_stefanyyang\system\Common.php(1089): CodeIgniter\View\View->render('penjualan', Array, true)
+#2 C:\xampp\htdocs\ukk_stefanyyang\app\Controllers\Home.php(248): view('penjualan', Array)
+#3 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(832): App\Controllers\Home->penjualan()
+#4 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_stefanyyang\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_stefanyyang\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 01:31:57 --> Invalid file: tambah_penjualan.php
+#0 C:\xampp\htdocs\ukk_stefanyyang\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_penjuala...')
+#1 C:\xampp\htdocs\ukk_stefanyyang\system\Common.php(1089): CodeIgniter\View\View->render('tambah_penjuala...', Array, true)
+#2 C:\xampp\htdocs\ukk_stefanyyang\app\Controllers\Home.php(262): view('tambah_penjuala...', Array)
+#3 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penjualan()
+#4 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_stefanyyang\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_stefanyyang\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 01:37:09 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_stefanyyang\app\Views\tambah_penjualan.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\ukk_stefanyyang\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_stefanyyang\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_stefanyyang\system\Common.php(1089): CodeIgniter\View\View->render('tambah_penjuala...', Array, true)
+#4 C:\xampp\htdocs\ukk_stefanyyang\app\Controllers\Home.php(262): view('tambah_penjuala...', Array)
+#5 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penjualan()
+#6 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_stefanyyang\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_stefanyyang\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_stefanyyang\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 01:39:33 --> Unknown column 'tglpenjualan' in 'field list'

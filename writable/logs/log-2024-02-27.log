@@ -1,0 +1,89 @@
+CRITICAL - 2024-02-27 20:46:50 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:47:26 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:48:19 --> Call to a member function tampil() on null
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:51:28 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:53:31 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:54:19 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 20:55:12 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2024-02-27 21:03:24 --> Class 'App\Controllers\M_model' not found
+#0 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#1 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2024-02-27 21:04:15 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2024-02-27 21:04:15 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\kasir\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\kasir\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\kasir\app\Models\M_model.php(8): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\kasir\app\Controllers\Home.php(33): App\Models\M_model->tampil('pelanggan')
+#4 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#5 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2024-02-27 21:04:24 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2024-02-27 21:04:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\kasir\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\kasir\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\kasir\app\Models\M_model.php(8): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\kasir\app\Controllers\Home.php(33): App\Models\M_model->tampil('pelanggan')
+#4 C:\xampp\htdocs\kasir\system\CodeIgniter.php(832): App\Controllers\Home->pelanggan()
+#5 C:\xampp\htdocs\kasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\kasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\kasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\kasir\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2024-02-27 21:34:02 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:34:10 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:34:34 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:34:39 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:35:09 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:36:51 --> Unknown column 'nama' in 'field list'
+ERROR - 2024-02-27 21:39:18 --> Unknown column 'nama' in 'field list'
